@@ -17,7 +17,7 @@ I'm passionate about building meaningful products that make a positive impact on
 - Machine Learning Applications in FinTech
 
 ## 🤝 Let’s Connect
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Check out my [Portfolio Website](https://debtcat.com) for more information about my work and projects.
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Check out my [Portfolio Website]([https://debtcat.com)](https://lyori6.github.io/lyor/) for more information about my work and projects.
 
 ### 📫 Contact Me
 - **Email:** [lyori6@gmail.com](mailto:lyori6@gmail.com)
