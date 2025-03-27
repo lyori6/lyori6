@@ -9,7 +9,7 @@ I'm passionate about building meaningful products that positively impact people,
 I'm always open to discussing new projects, creative ideas, or collaboration opportunities. Check out my [Portfolio Website](https://lyori6.github.io/lyor/) for more information about my work and projects.
 
 ### 📫 Contact Me
-- **Email:** [lyori6@gmail.com](mailto:lyori6@gmail.com)
+- **Email:** [hello@lyori.com](mailto:hello@lyori.com)
 - **LinkedIn:** [linkedin.com/in/lyor](https://www.linkedin.com/in/lyor)
 - **GitHub:** [github.com/lyori6](https://github.com/lyori6)
 - **Figma:** [figma.com/@lyor](https://www.figma.com/@lyor)
