@@ -11,5 +11,4 @@ I'm always open to discussing new projects, creative ideas, or collaboration opp
 ### 📫 Contact Me
 - **Email:** [hello@lyori.com](mailto:hello@lyori.com)
 - **LinkedIn:** [linkedin.com/in/lyor](https://www.linkedin.com/in/lyor)
-- **GitHub:** [github.com/lyori6](https://github.com/lyori6)
 - **Figma:** [figma.com/@lyor](https://www.figma.com/@lyor)
